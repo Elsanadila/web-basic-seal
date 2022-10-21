@@ -1,43 +1,15 @@
-.para-external { 
-    color: white;
-    margin: 50 px;
-    border: 20px solid #C7F2A4;
-    padding: 20px 20px 20px 20px;
-    background-color: #F7D1BA;
-}
-
 .para-foto {
-    border: 2px solid black;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
 }
-
-.para-saya {
-    color: white;
-    margin: 50 px;
-    border: 20px solid #C7F2A4;
-    padding: 20px 20px 20px 20px;
-    background-color: #F7D1BA;
+.title {
+    font-family: 'Raleway', sans-serif;
 }
-
-.para-ahli {
-    color: white;
-    margin: 50 px;
-    border: 20px solid #C7F2A4;
-    padding: 20px 20px 20px 20px;
-    background-color: #F7D1BA;
+.subtitle {
+    letter-spacing: 10px;
+    font-family: 'Raleway', sans-serif;
 }
-
-.para-pend {
-    color: white;
-    margin: 50 px;
-    border: 20px solid #C7F2A4;
-    padding: 20px 20px 20px 20px;
-    background-color: #F7D1BA;
-}
-
-.para-kontak {
-    color: white;
-    margin: 50 px;
-    border: 20px solid #C7F2A4;
-    padding: 20px 20px 20px 20px;
-    background-color: #F7D1BA;
+#elsa {
+    height: 95vh;
 }

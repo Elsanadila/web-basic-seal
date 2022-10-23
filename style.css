@@ -13,3 +13,12 @@
 #elsa {
     height: 95vh;
 }
+.text-about {
+    text-indent: 50px;
+    text-align: justify;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
